@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manisha K</h1>
 <h3 align="center">Aspiring Full Stack Developer | Beginner in Web Development | Passionate Learner</h3>
 
-- 🌱 I’m currently learning **html,css,javascript**
+- 🌱 I’m currently learning **Html,Css,Javascript**
 - 👀 I’m interested in **Web Development**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
