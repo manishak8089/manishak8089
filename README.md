@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishak8089&label=Profile%20views&color=0e75b6&style=flat" alt="manishak8089" /> </p>
 
-- 🔭 I’m currently working on **TuluNudi: Tulu to Kannada Translator**
+- 🔭 I’m currently working on **VarnaMithra: Tulu to Kannada Translator**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms for Efficient Coding, Mastering C++ and Python, Competitive Programming Techniques**
 
