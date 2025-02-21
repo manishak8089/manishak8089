@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **VarnaMithra: Tulu to Kannada Translator**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms for Efficient Coding, Mastering C++ and Python, Competitive Programming Techniques**
-
 - 👯 I’m looking to collaborate on **AI and Machine Learning Projects**
 
 - 💬 Ask me about **OCR Development, AI in Language Translation, Machine Learning Algorithms**
