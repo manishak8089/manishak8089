@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishak8089&label=Profile%20views&color=0e75b6&style=flat" alt="manishak8089" /> </p>
 
-- 🔭 I’m currently working on **VarnaMithra: Tulu to Kannada Translator**
+- 👨‍💻 Passionate about building innovative solutions in AI and Machine Learning
 
-- 👯 I’m looking to collaborate on **AI and Machine Learning Projects**
+- 👯 Looking to collaborate on challenging AI and ML projects
 
-- 💬 Ask me about **OCR Development, AI in Language Translation, Machine Learning Algorithms**
+- 💬 Ask me about OCR development, language translation technologies, and machine learning algorithms
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
