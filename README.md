@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Manisha K</h1>
+<h1 align="center">👋 Hey there, I'm Manisha K</h1>
 <h3 align="center">Building Solutions with Code | Aspiring Software Engineer | AI Innovator | Passionate Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishak8089&label=Profile%20views&color=0e75b6&style=flat" alt="manishak8089" /> </p>
 
-- 👨‍💻 Passionate about building innovative solutions in AI and Machine Learning
+- 🎓 Recent Information Science Graduate 
 
-- 👯 Looking to collaborate on challenging AI and ML projects
-
-- 💬 Ask me about OCR development, language translation technologies, and machine learning algorithms
+- 💻 I enjoy turning ideas into simple, useful applications  
+ 
+- 🌱 Always learning and exploring something new in tech 
 
 
 <h3 align="left">Connect with me:</h3>
